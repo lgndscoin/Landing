@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Become a Part of Legends",
+    "paragraph": "Join us as we highlight and recognize the pioneers who've made a significant impact in their fields. Together, let's inspire future generations with the true spirit of being a legend."
+  },
+  "About": {
+    "paragraph": "Legends ($LGND) is an ERC20 token that serves as a tribute to world-changers and pioneers. By purchasing $LGND, you become part of a community committed to recognizing and appreciating the individuals who've shaped our world. Our mission is not just to honor these legends but to inspire future generations to follow in their footsteps.",
+    "Why": [
+      "Community",
+      "Innovation",
+      "Inspiration",
+      "Transparent"
+    ],
+    "Why2": [
+      "Diverse",
+      "Impactful",
+      "Pioneering",
+      "Vision"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Burnt Liquidity Pool Tokens",
+      "text": "Legends ($LGND) ensures investor safety by burning LP tokens. This not only stabilizes the token price but also eliminates the possibility of a rug pull, offering a more secure investment environment."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "No Developer Wallet",
+      "text": "We believe in total fairness, which is why we don't have a developer wallet. This ensures all $LGND tokens are distributed among the community, preventing any unfair advantage or manipulation."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Smart Contract Audits",
+      "text": "All $LGND contracts undergo rigorous auditing by industry-leading firms. This ensures that our code is secure, efficient, and performs as intended, guaranteeing your investments are safe."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Locked Liquidity",
+      "text": "Our liquidity is locked, ensuring that there is always enough reserve for investors to buy and sell $LGND tokens. This instills trust and encourages a healthy trading environment."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Anti-Whale Mechanism",
+      "text": "We have implemented an anti-whale mechanism to prevent any individual or entity from controlling a significant percentage of $LGND supply. This ensures market stability and fair distribution of tokens."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Transparent Transactions",
+      "text": "All transactions involving $LGND are recorded on the Ethereum blockchain, providing full transparency. Anybody can verify our transactions, contributing to our goal of maintaining an open and trustworthy platform."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"I've always been one to invest in the future. Legends ($LGND) isn't just a token, it's a mission to inspire the next generation of heroes. If that's not worth my Stark Industries stock, I don't know what is.\"",
+      "name": "Tony Stark"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"As the god of the sky, thunder and the king of the gods in ancient Greek religion, I see potential in Legends ($LGND). It's a tribute to the legends of the past and an inspiration for the legends of the future.\"",
+      "name": "Zeus"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"After careful observation and deduction, I find Legends ($LGND) to be more than just an ordinary token. It has a clear purpose and a dedicated community, which can be more valuable than the token itself.\"",
+      "name": "Sherlock Holmes"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Just as we Spartans stand together on the battlefield, the Legends ($LGND) community stands together in the crypto arena. This is more than a token, it's a testament to our spirit.\"",
+      "name": "Leonidas"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Legends ($LGND) captures the essence of what it truly means to be a leader – making a significant impact and inspiring others. Just as we Autobots strive for peace and prosperity in the universe, this token strives to honor the legends of the past and inspire the future. Together, we can roll out towards a brighter future.\"",
+      "name": "Optimus Prime"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Hmm! Invest in Legends ($LGND), I have. A strong community they have, and a brighter future, they inspire. Yes, hmmm.\"",
+      "name": "Yoda"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "GPT-3",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "GPT-4",
+      "job": "Lead Developer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Dall-E",
+      "job": "Lead Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Alice",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Phase 1: Launch (Q1 2023)",
+      "text": "Legends ($LGND) debuts. We launch our token on decentralized exchanges, establish initial liquidity, and kickstart our community building."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Phase 2: Growth (Q2 2023)",
+      "text": "We amplify our presence. Comprehensive marketing campaigns, influencer partnerships, and development of token utilities fuel our growth."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Phase 3: Expansion (Q3 2023)",
+      "text": "We broaden our horizons. More exchange listings, feature launches, and strategic partnerships increase $LGND's reach and value."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Phase 4: Sustainability (Q4 2023 and beyond)",
+      "text": "We ensure $LGND's longevity. Constant innovation, regular audits, and ongoing community engagement secure our project's sustainable future."
+    }
+  ]
+}
